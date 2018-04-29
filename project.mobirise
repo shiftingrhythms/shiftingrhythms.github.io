@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "shiftingrhythms_1",
-    "currentPage": "index.html",
+    "currentPage": "team.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1934,7 +1934,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kofi-300x250.png",
+              "src": "@PROJECT_PATH@/assets/images/kofi-1-300x250.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1957,7 +1957,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/amon-3-570x636.png",
+              "src": "@PROJECT_PATH@/assets/images/amon-4-570x636.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2079,7 +2079,7 @@
           "_anchor": "header3-19"
         },
         {
-          "text": "<p>Max Mendelsohn, Anna McCormack, Cecelia Auerswald, Aditi Joshi, Irene Laochaisri, Anne LoVerso, Alisha Pegan, Jiaying Wei, Akeem Allen, Alison Berokwitz, Ken Berry, Hamza Bilbeisi, Katya Bilonog, Mike Brady, Adam Coppola, Adit Dhanushkodi, Rahil Dedhia, Ashley Funk, Bradley George, Hanson Grant, Sharon Grimshaw, Henry Horsey, Sahastru Jajodia, Doyung Lee, Lizzie Lin, Melisa Lopardo, Kate Maschan, Amos Meeks, Nora Mohamed, Mary Morse, Erik Noyes, Mateusz Okon, Josuel Plasencia, David Pudlo, Molly Rubenstein, Shane Skikne, Trevor Sullivan, Chloe Vilian, Erika Weiler, Lily Wu, Mei Lang Xiong, Hajin Youn<br></p>",
+          "text": "<p>Max Mendelsohn, Anne McCormack, Cecelia Auerswald, Aditi Joshi, Irene Laochaisri, Anne LoVerso, Alisha Pegan, Jiaying Wei, Akeem Allen, Alison Berokwitz, Ken Berry, Hamza Bilbeisi, Katya Bilonog, Mike Brady, Adam Coppola, Adit Dhanushkodi, Rahil Dedhia, Ashley Funk, Bradley George, Hanson Grant, Sharon Grimshaw, Henry Horsey, Sahastru Jajodia, Doyung Lee, Lizzie Lin, Melisa Lopardo, Kate Maschan, Amos Meeks, Nora Mohamed, Mary Morse, Erik Noyes, Mateusz Okon, Josuel Plasencia, David Pudlo, Molly Rubenstein, Shane Skikne, Trevor Sullivan, Chloe Vilian, Erika Weiler, Lily Wu, Mei Lang Xiong, Hajin Youn<br></p>",
           "_tags": [
             "Theme"
           ],
