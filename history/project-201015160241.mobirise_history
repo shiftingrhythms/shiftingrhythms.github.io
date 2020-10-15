@@ -17,10 +17,8 @@
     "noImageResize": "",
     "versionFirst": "4.6.3",
     "uniqCompNum": 59,
-    "versionPublish": "5.1.4",
-    "screenshot": "screenshot.png",
-    "siteFonts": [],
-    "imageResize": true
+    "versionPublish": "4.6.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
